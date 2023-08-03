@@ -1,0 +1,2 @@
+16S sequences were extracted from flye assembly using BARRNAP.
+However, blastn and pairwise alignment indicate poor assembly and incorrect 16S sequences, thus the canu assembly is more likely to be used. 
