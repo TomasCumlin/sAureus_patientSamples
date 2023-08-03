@@ -1,0 +1,3 @@
+16S sequences extraxted from the canu assembly.
+16S results align well (copies) and blastn results resemeble those of 16S extracted from various reference genomes, using BARRNAP.
+
