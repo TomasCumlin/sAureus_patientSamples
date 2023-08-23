@@ -1,102 +1,53 @@
 Gene	Product	Sample_1	Sample_2	Sample_3	Sample_4	Sample_5	Sample_6
-hlgB	Gamma-hemolysin component B
-	*	*	*	*	*	*
-sspA	Glutamyl endopeptidase
-	*	*	*	*	*	*
-sspB	Staphopain B
-	*	*	*	*	*	*
-sspC	Staphostatin B
-	*	*	*	*	*	*
-aroE	Shikimate dehydrogenase (NADP(+))
-	*	*	*	*	*	*
-glpF	Glycerol uptake facilitator protein
-	*	*	*	*	*	*
-gmk	Guanylate kinase
-	*	*	*	*	*	*
-pta	Phosphate acetyltransferase
-	*	*	*	*	*	*
-femB	Aminoacyltransferase FemB
-	*	*	*	*	*	*
+hlgB	Gamma-hemolysin component B	*	*	*	*	*	*
+sspA	Glutamyl endopeptidase	*	*	*	*	*	*
+sspB	Staphopain B	*	*	*	*	*	*
+sspC	Staphostatin B	*	*	*	*	*	*
+aroE	Shikimate dehydrogenase (NADP(+))	*	*	*	*	*	*
+glpF	Glycerol uptake facilitator protein	*	*	*	*	*	*
+gmk	Guanylate kinase	*	*	*	*	*	*
+pta	Phosphate acetyltransferase	*	*	*	*	*	*
+femB	Aminoacyltransferase FemB	*	*	*	*	*	*
 icaA	Poly-beta-1	*	*	*	*	*	*
-fnbB	Fibronectin-binding protein B
-	*	*	*	*	*	*
-katA	Catalase
-	*	*	*	*	*	*
-gyrA	DNA gyrase subunit A
-	*	*	*	*	*	*
-gyrB	DNA gyrase subunit B
-	*	*	*	*	*	*
-hlgC	Gamma-hemolysin component C
-	*	n/a	*	*	*	*
-splB	Serine protease SplB
-	*	*	n/a	*	*	*
-sak	Staphylokinase
-	*	*	*	n/a	*	*
-nuc	Thermonuclease
-	*	*	*	*	*	n/a
-mecA	Adapter protein MecA
-	*	*	*	*	n/a	*
-spA	Immunoglobulin G-binding protein A
-	n/a	*	*	*	*	*
-fnbA	Fibronectin-binding protein A
-	n/a	*	*	*	*	*
-clfa	Clumping factor A
-	*	n/a	*	*	n/a	n/a
-sraP	Serine-rich adhesin for platelets
-	n/a	n/a	*	*	*	n/a
-blaZ	Beta-lactamase
-	*	n/a	n/a	n/a	*	n/a
-hlb_1	Phospholipase C
-	*	*	*	n/a	*	*
-hlb_2	Phospholipase C
-	*	*	*	n/a	*	*
-tst	Toxic shock syndrome toxin-1
-	n/a	n/a	n/a	n/a	*	n/a
-hldD	ADP-L-glycero-D-manno-heptose-6-epimerase
-	*	*	*	*	*	*
-lukEv	Leucotoxin LukEv
-	*	n/a	n/a	*	n/a	*
-hylB	Hyaluronate lyase
-	*	*	n/a	n/a	*	n/a
-lipA_1	Lipase 1
-	*	*	*	*	*	*
-lipA_2	Lipoyl synthase
-	*	*	*	*	*	*
-lip2	Lipase 2
-	*	*	*	*	*	*
-pvl	phage protein
-	n/a	n/a	n/a	n/a	n/a	n/a
-femA_1	Aminoacyltransferase FemA
-	*	*	*	*	*	*
-femA_2	Aminoacyltransferase FemA
-	*	*	*	*	*	*
-hly	Alpha-hemolysin
-	*	n/a	*	*	*	*
-entA_1	Enterotoxin type A
-	*	*	*	n/a	*	*
-entA_2	Enterotoxin type A
-	*	*	*	n/a	*	*
-entA_3	Enterotoxin type A
-	*	*	n/a	n/a	*	*
-entA_4	Enterotoxin type A
-	*	n/a	n/a	n/a	*	*
-entD_1	Enterotoxin type D
-	*	n/a	*	n/a	n/a	*
-entD_2	Enterotoxin type D
-	*	n/a	*	n/a	n/a	*
-entD_3	Enterotoxin type D
-	n/a	n/a	n/a	n/a	n/a	*
-entD_4	Enterotoxin type D
-	n/a	n/a	n/a	n/a	n/a	*
-msrA1	Peptide methionine sulfoxide reductase MsrA 1
-	*	*	*	*	*	*
-msrA2	Peptide methionine sulfoxide reductase MsrA 2
-	*	*	*	*	*	*
-msrAB	Peptide methionine sulfoxide reductase msrA/msrB
-	*	*	*	*	*	*
+fnbB	Fibronectin-binding protein B	*	*	*	*	*	*
+katA	Catalase	*	*	*	*	*	*
+gyrA	DNA gyrase subunit A	*	*	*	*	*	*
+gyrB	DNA gyrase subunit B	*	*	*	*	*	*
+hlgC	Gamma-hemolysin component C	*	n/a	*	*	*	*
+splB	Serine protease SplB	*	*	n/a	*	*	*
+sak	Staphylokinase	*	*	*	n/a	*	*
+nuc	Thermonuclease	*	*	*	*	*	n/a
+mecA	Adapter protein MecA	*	*	*	*	n/a	*
+spA	Immunoglobulin G-binding protein A	n/a	*	*	*	*	*
+fnbA	Fibronectin-binding protein A	n/a	*	*	*	*	*
+clfa	Clumping factor A	*	n/a	*	*	n/a	n/a
+sraP	Serine-rich adhesin for platelets	n/a	n/a	*	*	*	n/a
+blaZ	Beta-lactamase	*	n/a	n/a	n/a	*	n/a
+hlb_1	Phospholipase C	*	*	*	n/a	*	*
+hlb_2	Phospholipase C	*	*	*	n/a	*	*
+tst	Toxic shock syndrome toxin-1	n/a	n/a	n/a	n/a	*	n/a
+hldD	ADP-L-glycero-D-manno-heptose-6-epimerase	*	*	*	*	*	*
+lukEv	Leucotoxin LukEv	*	n/a	n/a	*	n/a	*
+hylB	Hyaluronate lyase	*	*	n/a	n/a	*	n/a
+lipA_1	Lipase 1	*	*	*	*	*	*
+lipA_2	Lipoyl synthase	*	*	*	*	*	*
+lip2	Lipase 2	*	*	*	*	*	*
+pvl	phage protein	n/a	n/a	n/a	n/a	n/a	n/a
+femA_1	Aminoacyltransferase FemA	*	*	*	*	*	*
+femA_2	Aminoacyltransferase FemA	*	*	*	*	*	*
+hly	Alpha-hemolysin	*	n/a	*	*	*	*
+entA_1	Enterotoxin type A	*	*	*	n/a	*	*
+entA_2	Enterotoxin type A	*	*	*	n/a	*	*
+entA_3	Enterotoxin type A	*	*	n/a	n/a	*	*
+entA_4	Enterotoxin type A	*	n/a	n/a	n/a	*	*
+entD_1	Enterotoxin type D	*	n/a	*	n/a	n/a	*
+entD_2	Enterotoxin type D	*	n/a	*	n/a	n/a	*
+entD_3	Enterotoxin type D	n/a	n/a	n/a	n/a	n/a	*
+entD_4	Enterotoxin type D	n/a	n/a	n/a	n/a	n/a	*
+msrA1	Peptide methionine sulfoxide reductase MsrA 1	*	*	*	*	*	*
+msrA2	Peptide methionine sulfoxide reductase MsrA 2	*	*	*	*	*	*
+msrAB	Peptide methionine sulfoxide reductase msrA/msrB	*	*	*	*	*	*
 tetA	Tetracycline resistance protein	*	*	*	*	*	*
-arcC1	Carbamate kinase 1
-	*	*	*	*	*	*
-arcC2	Carbamate kinase 2
-	*	*	*	*	*	*
+arcC1	Carbamate kinase 1	*	*	*	*	*	*
+arcC2	Carbamate kinase 2	*	*	*	*	*	*
 tpiA	Triosephosphate isomerase	*	*	*	*	*	n/a
