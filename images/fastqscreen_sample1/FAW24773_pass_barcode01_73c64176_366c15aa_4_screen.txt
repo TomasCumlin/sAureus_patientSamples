@@ -1,0 +1,15 @@
+#Fastq_screen version: 0.15.3	#Aligner: bowtie2	#Reads in subset: 100000
+Genome	#Reads_processed	#Unmapped	%Unmapped	#One_hit_one_genome	%One_hit_one_genome	#Multiple_hits_one_genome	%Multiple_hits_one_genome	#One_hit_multiple_genomes	%One_hit_multiple_genomes	Multiple_hits_multiple_genomes	%Multiple_hits_multiple_genomes
+Saureus	46617	2201	4.72	22695	48.68	17689	37.95	2038	4.37	1994	4.28
+Ecoli	46617	46200	99.11	0	0.00	0	0.00	0	0.00	417	0.89
+Vectors	46617	46190	99.08	22	0.05	5	0.01	166	0.36	234	0.50
+Efaecium	46617	46138	98.97	0	0.00	0	0.00	0	0.00	479	1.03
+Sepidermidis	46617	42261	90.66	0	0.00	411	0.88	0	0.00	3945	8.46
+EscerechiaPhage	46617	46617	100.00	0	0.00	0	0.00	0	0.00	0	0.00
+Cperfringens	46617	46336	99.40	0	0.00	0	0.00	0	0.00	281	0.60
+Smutans	46617	46245	99.20	0	0.00	0	0.00	0	0.00	372	0.80
+Mluteus	46617	46473	99.69	0	0.00	0	0.00	0	0.00	144	0.31
+Cacnes	46617	46529	99.81	0	0.00	1	0.00	0	0.00	87	0.19
+Cdiphtheriae	46617	46505	99.76	0	0.00	0	0.00	0	0.00	112	0.24
+
+%Hit_no_genomes: 3.10
