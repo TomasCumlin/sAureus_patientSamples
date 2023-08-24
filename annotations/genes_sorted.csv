@@ -1,70 +1,53 @@
-Gene	Sample_1	Sample_2	Sample_3	Sample_4	Sample_5	Sample_6
-hlgA	*	*	*	*	*	*
-hlgB	*	*	*	*	*	*
-sspA	*	*	*	*	*	*
-sspB	*	*	*	*	*	*
-sspC	*	*	*	*	*	*
-aroE	*	*	*	*	*	*
-glpF	*	*	*	*	*	*
-gmk	*	*	*	*	*	*
-pta	*	*	*	*	*	*
-femB	*	*	*	*	*	*
-icaA	*	*	*	*	*	*
-fnbB	*	*	*	*	*	*
-katA	*	*	*	*	*	*
-gyrA	*	*	*	*	*	*
-gyrB	*	*	*	*	*	*
-hlgC	*	n/a	*	*	*	*
-splB	*	*	n/a	*	*	*
-sak	*	*	*	n/a	*	*
-nuc	*	*	*	*	*	n/a
-mecA	*	*	*	*	n/a	*
-spA	n/a	*	*	*	*	*
-spA	n/a	*	*	*	*	*
-fnbA	n/a	*	*	*	*	*
-fnbA	n/a	*	*	*	*	*
-clfa	*	n/a	*	*	n/a	n/a
-sraP	n/a	n/a	*	*	*	n/a
-blaZ	*	n/a	n/a	n/a	*	n/a
-hlb	n/a	n/a	n/a	*	n/a	n/a
-tst	n/a	n/a	n/a	n/a	*	n/a
-eta	n/a	n/a	*	n/a	n/a	n/a
-hla	n/a	n/a	n/a	n/a	n/a	n/a
-hld	n/a	n/a	n/a	n/a	n/a	n/a
-lukE	n/a	n/a	n/a	n/a	n/a	n/a
-lukM	n/a	n/a	n/a	n/a	n/a	n/a
-lukF-PV	n/a	n/a	n/a	n/a	n/a	n/a
-lukS-PV	n/a	n/a	n/a	n/a	n/a	n/a
-hysA	n/a	n/a	n/a	n/a	n/a	n/a
-lip	n/a	n/a	n/a	n/a	n/a	n/a
-pvl	n/a	n/a	n/a	n/a	n/a	n/a
-mecC	n/a	n/a	n/a	n/a	n/a	n/a
-arcC	n/a	n/a	n/a	n/a	n/a	n/a
-tpi	n/a	n/a	n/a	n/a	n/a	n/a
-yqi	n/a	n/a	n/a	n/a	n/a	n/a
-16S	n/a	n/a	n/a	n/a	n/a	n/a
-femA	n/a	n/a	n/a	n/a	n/a	n/a
-hla	n/a	n/a	n/a	n/a	n/a	n/a
-sea	n/a	n/a	n/a	n/a	n/a	n/a
-seb	n/a	n/a	n/a	n/a	n/a	n/a
-sec	n/a	n/a	n/a	n/a	n/a	n/a
-etb	n/a	n/a	n/a	n/a	n/a	n/a
-msrA	n/a	n/a	n/a	n/a	n/a	n/a
-tetK	n/a	n/a	n/a	n/a	n/a	n/a
-erm(A)	n/a	n/a	n/a	n/a	n/a	n/a
-aacA	n/a	n/a	n/a	n/a	n/a	n/a
-aacB	n/a	n/a	n/a	n/a	n/a	n/a
-aacC	n/a	n/a	n/a	n/a	n/a	n/a
-aphD	n/a	n/a	n/a	n/a	n/a	n/a
-katB	n/a	n/a	n/a	n/a	n/a	n/a
-norA	n/a	n/a	n/a	n/a	n/a	n/a
-grlA	n/a	n/a	n/a	n/a	n/a	n/a
-grlB	n/a	n/a	n/a	n/a	n/a	n/a
-arlRS	n/a	n/a	n/a	n/a	n/a	n/a
-tetM	n/a	n/a	n/a	n/a	n/a	n/a
-tetK	n/a	n/a	n/a	n/a	n/a	n/a
-vanA	n/a	n/a	n/a	n/a	n/a	n/a
-ermB	n/a	n/a	n/a	n/a	n/a	n/a
-cfr	n/a	n/a	n/a	n/a	n/a	n/a
-lmrS	n/a	n/a	n/a	n/a	n/a	n/a
-mepAR	n/a	n/a	n/a	n/a	n/a	n/a
+Gene	Product	Sample_1	Sample_2	Sample_3	Sample_4	Sample_5	Sample_6
+hlgB	Gamma-hemolysin component B	*	*	*	*	*	*
+sspA	Glutamyl endopeptidase	*	*	*	*	*	*
+sspB	Staphopain B	*	*	*	*	*	*
+sspC	Staphostatin B	*	*	*	*	*	*
+aroE	Shikimate dehydrogenase (NADP(+))	*	*	*	*	*	*
+glpF	Glycerol uptake facilitator protein	*	*	*	*	*	*
+gmk	Guanylate kinase	*	*	*	*	*	*
+pta	Phosphate acetyltransferase	*	*	*	*	*	*
+femB	Aminoacyltransferase FemB	*	*	*	*	*	*
+icaA	Poly-beta-1	*	*	*	*	*	*
+fnbB	Fibronectin-binding protein B	*	*	*	*	*	*
+katA	Catalase	*	*	*	*	*	*
+gyrA	DNA gyrase subunit A	*	*	*	*	*	*
+gyrB	DNA gyrase subunit B	*	*	*	*	*	*
+hldD	ADP-L-glycero-D-manno-heptose-6-epimerase	*	*	*	*	*	*
+lipA_1	Lipase 1	*	*	*	*	*	*
+lipA_2	Lipoyl synthase	*	*	*	*	*	*
+lip2	Lipase 2	*	*	*	*	*	*
+femA_1	Aminoacyltransferase FemA	*	*	*	*	*	*
+femA_2	Aminoacyltransferase FemA	*	*	*	*	*	*
+msrA1	Peptide methionine sulfoxide reductase MsrA 1	*	*	*	*	*	*
+msrA2	Peptide methionine sulfoxide reductase MsrA 2	*	*	*	*	*	*
+msrAB	Peptide methionine sulfoxide reductase msrA/msrB	*	*	*	*	*	*
+tetA	Tetracycline resistance protein	*	*	*	*	*	*
+arcC1	Carbamate kinase 1	*	*	*	*	*	*
+arcC2	Carbamate kinase 2	*	*	*	*	*	*
+hlgC	Gamma-hemolysin component C	*	n/a	*	*	*	*
+splB	Serine protease SplB	*	*	n/a	*	*	*
+sak	Staphylokinase	*	*	*	n/a	*	*
+nuc	Thermonuclease	*	*	*	*	*	n/a
+mecA	Adapter protein MecA	*	*	*	*	n/a	*
+spA	Immunoglobulin G-binding protein A	n/a	*	*	*	*	*
+fnbA	Fibronectin-binding protein A	n/a	*	*	*	*	*
+hlb_1	Phospholipase C	*	*	*	n/a	*	*
+hlb_2	Phospholipase C	*	*	*	n/a	*	*
+hly	Alpha-hemolysin	*	n/a	*	*	*	*
+entA_1	Enterotoxin type A	*	*	*	n/a	*	*
+entA_2	Enterotoxin type A	*	*	*	n/a	*	*
+tpiA	Triosephosphate isomerase	*	*	*	*	*	n/a
+entA_3	Enterotoxin type A	*	*	n/a	n/a	*	*
+clfa	Clumping factor A	*	n/a	*	*	n/a	n/a
+sraP	Serine-rich adhesin for platelets	n/a	n/a	*	*	*	n/a
+lukEv	Leucotoxin LukEv	*	n/a	n/a	*	n/a	*
+hylB	Hyaluronate lyase	*	*	n/a	n/a	*	n/a
+entA_4	Enterotoxin type A	*	n/a	n/a	n/a	*	*
+entD_1	Enterotoxin type D	*	n/a	*	n/a	n/a	*
+entD_2	Enterotoxin type D	*	n/a	*	n/a	n/a	*
+blaZ	Beta-lactamase	*	n/a	n/a	n/a	*	n/a
+tst	Toxic shock syndrome toxin-1	n/a	n/a	n/a	n/a	*	n/a
+entD_3	Enterotoxin type D	n/a	n/a	n/a	n/a	n/a	*
+entD_4	Enterotoxin type D	n/a	n/a	n/a	n/a	n/a	*
+pvl	phage protein	n/a	n/a	n/a	n/a	n/a	n/a
