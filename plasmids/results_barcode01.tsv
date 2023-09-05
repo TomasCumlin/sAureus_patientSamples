@@ -1,0 +1,4 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+Rep_trans	rep7c	100.0	821 / 821	tig00000001 len=2736840 reads=18497 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=6012-2733989	2343042..2343862	rep(MSSA476)	BX571857
+RepA_N	rep20	100.0	945 / 945	tig00000003 len=41102 reads=362 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=6846-34274	857..1801	repA(SAP063A)	GQ900418
+RepA_N	rep20	100.0	945 / 945	tig00000003 len=41102 reads=362 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=6846-34274	28285..29229	repA(SAP063A)	GQ900418

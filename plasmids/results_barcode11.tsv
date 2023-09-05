@@ -1,0 +1,5 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+Rep3	rep5a	100.0	861 / 861	tig00000017 len=31270 reads=352 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=2636-30125	7405..8265	repSAP001(pN315)	AP003139
+Inc18	rep16	99.73	744 / 744	tig00000017 len=31270 reads=352 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=2636-30125	5374..6117	CDS6(pSJH101)	CP000737
+Inc18	rep16	99.73	744 / 744	tig00000017 len=31270 reads=352 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=2636-30125	5374..6117	SAP041A019(pWBG759)	GQ900401
+RepA_N	rep19	100.0	975 / 975	tig00000017 len=31270 reads=352 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=2636-30125	3974..4948	repA(SAP019A)	GQ900385

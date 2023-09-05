@@ -1,0 +1,9 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+RepA_N	rep19	100.0	975 / 975	tig00000002 len=69659 reads=447 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-69659	17663..18637	repA(SAP019A)	GQ900385
+RepA_N	rep19	100.0	975 / 975	tig00000002 len=69659 reads=447 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-69659	45098..46072	repA(SAP019A)	GQ900385
+Inc18	rep16	99.73	744 / 744	tig00000002 len=69659 reads=447 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-69659	46467..47210	CDS6(pSJH101)	CP000737
+Inc18	rep16	99.73	744 / 744	tig00000002 len=69659 reads=447 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-69659	19032..19775	CDS6(pSJH101)	CP000737
+Inc18	rep16	99.73	744 / 744	tig00000002 len=69659 reads=447 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-69659	19032..19775	SAP041A019(pWBG759)	GQ900401
+Inc18	rep16	99.73	744 / 744	tig00000002 len=69659 reads=447 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-69659	46467..47210	SAP041A019(pWBG759)	GQ900401
+Rep3	rep5a	100.0	861 / 861	tig00000002 len=69659 reads=447 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-69659	48498..49358	repSAP001(pN315)	AP003139
+Rep3	rep5a	100.0	861 / 861	tig00000002 len=69659 reads=447 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-69659	21063..21923	repSAP001(pN315)	AP003139

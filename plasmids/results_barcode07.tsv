@@ -1,0 +1,14 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+RepA_N	rep20	100.0	990 / 990	tig00000018 len=35376 reads=382 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=3191-34077	7649..8638	rep(pTW20)	FN433597
+Rep1	rep21	100.0	717 / 717	tig00000018 len=35376 reads=382 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=3191-34077	2981..3697	p020(pLGA251)	FR821780
+Rep1	rep21	100.0	717 / 717	tig00000018 len=35376 reads=382 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=3191-34077	33867..34583	p020(pLGA251)	FR821780
+Rep_trans	rep7a	100.0	945 / 945	tig00000051 len=8106 reads=395 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=1834-6273	4842..5786	repC(Cassette)	AB037671
+Rep_trans	rep7a	100.0	945 / 945	tig00000051 len=8106 reads=395 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=1834-6273	403..1347	repC(Cassette)	AB037671
+Rep_trans	rep7a	99.79	933 / 933	tig00000062 len=7240 reads=105 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=1553-5686	5269..6201	rep(pKH7)	NC002096
+Rep_trans	rep7a	99.79	933 / 933	tig00000062 len=7240 reads=105 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=1553-5686	1136..2068	rep(pKH7)	NC002096
+Rep_trans	rep7c	99.42	520 / 821	tig00000034 len=22019 reads=158 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-22019	1..520	rep(MSSA476)	BX571857
+Rep_trans	rep7c	99.67	612 / 821	tig00000037 len=35456 reads=278 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-35456	34845..35456	rep(MSSA476)	BX571857
+RepL	rep10	100.0	333 / 477	tig00000064 len=4496 reads=44 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-4496	1..333	repL(pDLK1)	GU562624
+RepL	rep10	100.0	477 / 477	tig00000064 len=4496 reads=44 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-4496	2221..2697	repL(pDLK1)	GU562624
+RepL	rep10	100.0	333 / 441	tig00000064 len=4496 reads=44 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-4496	1..333	CDS1(pIM13)	M13761
+RepL	rep10	100.0	333 / 489	tig00000064 len=4496 reads=44 class=contig suggestRepeat=no suggestBubble=no suggestCircular=no trim=0-4496	1..333	pNE131p1(pNE131)	NC001390

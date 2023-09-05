@@ -1,0 +1,4 @@
+Database	Plasmid	Identity	Query / Template length	Contig	Position in contig	Note	Accession number
+Rep1	rep21	99.9	996 / 996	tig00000004 len=10402 reads=781 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=1707-8465	6826..7821	rep(CN1	plasmid2)NC022227
+Rep1	rep21	99.9	996 / 996	tig00000004 len=10402 reads=781 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=1707-8465	68..1063	rep(CN1	plasmid2)NC022227
+Rep1	rep21	99.9	996 / 996	tig00000004 len=10402 reads=781 class=contig suggestRepeat=no suggestBubble=no suggestCircular=yes trim=1707-8465	3447..4442	rep(CN1	plasmid2)NC022227
