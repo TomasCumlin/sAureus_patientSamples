@@ -1,0 +1,40 @@
+Gene	Product	16_02_70	16_02_70_b	176_22_08	193_66	193_66_Naxtra	193	196	196E	209_67	209_79	5209	6131	8530	17791	25923_78	25923_81	AMB-81-3	CAMP1	COVAN1	R3811	US1000
+hlgB	Gamma-hemolysin component B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+sspA	Glutamyl endopeptidase	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+sspB	Staphopain B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+sspC	Staphostatin B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+aroE	Shikimate dehydrogenase (NADP(+))	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+gmk	Guanylate kinase	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+femB	Aminoacyltransferase FemB	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+icaA	Poly-beta-1	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+fnbB	Fibronectin-binding protein B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+katA	Catalase	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+gyrA	DNA gyrase subunit A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+gyrB	DNA gyrase subunit B	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+hlgC	Gamma-hemolysin component C	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+nuc	Thermonuclease	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+hlb	Phospholipase C	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+hldD	ADP-L-glycero-D-manno-heptose-6-epimerase	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+lipA	Lipase	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+femA	Aminoacyltransferase FemA	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+hly	Alpha-hemolysin	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+entA	Enterotoxin type A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+msrA	Peptide methionine sulfoxide reductase MsrA	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+tetA	Tetracycline resistance protein	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+arcC	Carbamate kinase	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+glpF	Glycerol uptake facilitator protein	*	*	*	*	*	*	*	*	*	n/a	*	*	*	*	*	*	*	*	*	*	*
+pta	Phosphate acetyltransferase	*	*	*	*	*	*	*	*	*	*	*	*	*	*	n/a	*	*	*	*	*	*
+mecA	Adapter protein MecA	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	n/a	*	*	*
+spA	Immunoglobulin G-binding protein A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	n/a
+tpi	Triosephosphate isomerase	*	*	*	*	*	*	*	*	*	*	*	*	*	*	n/a	*	*	*	*	*	*
+fnbA	Fibronectin-binding protein A	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	n/a	n/a
+splB	Serine protease SplB	*	*	*	n/a	n/a	n/a	*	*	*	*	*	*	*	*	n/a	*	*	*	*	*	*
+sak	Staphylokinase	*	*	n/a	*	*	*	*	*	*	*	*	*	*	*	n/a	n/a	*	n/a	*	*	*
+clfa	Clumping factor A	*	*	n/a	*	*	*	*	*	*	n/a	*	n/a	n/a	*	*	n/a	n/a	*	n/a	*	*
+lukEv	Leucotoxin LukEv	*	*	n/a	n/a	n/a	n/a	*	*	*	*	*	*	n/a	*	n/a	n/a	n/a	*	n/a	*	*
+sraP	Serine-rich adhesin for platelets	*	*	n/a	*	*	*	*	*	n/a	n/a	n/a	n/a	n/a	n/a	*	n/a	*	*	n/a	*	n/a
+hylB	Hyaluronate lyase	n/a	n/a	*	n/a	n/a	n/a	n/a	n/a	*	*	*	*	*	n/a	*	n/a	*	*	*	n/a	*
+entD	Enterotoxin type D	n/a	n/a	n/a	*	*	*	*	*	*	*	*	n/a	n/a	*	n/a	n/a	n/a	*	n/a	n/a	*
+blaZ	Beta-lactamase	n/a	n/a	n/a	n/a	n/a	n/a	*	*	n/a	n/a	n/a	n/a	n/a	*	n/a	n/a	*	n/a	n/a	*	*
+tst	Toxic shock syndrome toxin-1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	*	n/a	n/a	n/a	n/a	*	n/a	n/a	n/a	n/a
+pvl	phage protein	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a

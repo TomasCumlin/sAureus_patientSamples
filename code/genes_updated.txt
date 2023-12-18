@@ -1,0 +1,40 @@
+hlgA,Gamma-hemolysin component A
+hlgB,Gamma-hemolysin component B
+sspA,Glutamyl endopeptidase
+sspB,Staphopain B
+sspC,Staphostatin B
+aroE,Shikimate dehydrogenase (NADP(+))
+glpF,Glycerol uptake facilitator protein
+gmk,Guanylate kinase
+pta,Phosphate acetyltransferase
+femB,Aminoacyltransferase FemB
+icaA,Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+fnbB,Fibronectin-binding protein B
+katA,Catalase
+gyrA,DNA gyrase subunit A
+gyrB,DNA gyrase subunit B
+hlgC,Gamma-hemolysin component C
+splB,Serine protease SplB
+sak,Staphylokinase
+nuc,Thermonuclease
+mecA,Adapter protein MecA
+spA,Immunoglobulin G-binding protein A
+fnbA,Fibronectin-binding protein A
+clfa,Clumping factor A
+sraP,Serine-rich adhesin for platelets
+blaZ,Beta-lactamase
+hlb,Phospholipase C
+tst,Toxic shock syndrome toxin-1
+hldD,ADP-L-glycero-D-manno-heptose-6-epimerase
+lukEv,Leucotoxin LukEv
+hylB,Hyaluronate lyase
+lipA,Lipase
+pvl,phage protein
+femA,Aminoacyltransferase FemA
+hly,Alpha-hemolysin
+entA,Enterotoxin type A
+entD,Enterotoxin type D
+msrA,Peptide methionine sulfoxide reductase MsrA
+tetA,Tetracycline resistance protein, class B
+arcC,Carbamate kinase
+tpi,Triosephosphate isomerase
